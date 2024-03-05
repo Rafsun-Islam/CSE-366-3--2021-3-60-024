@@ -35,7 +35,11 @@ The environment consists of a grid with obstacles where an agent needs to naviga
 
 Here's an example of a generated grid with paths found using A* and UCS algorithms:
 
+A* 
+
 ![A*](https://github.com/Rafsun-Islam/CSE-366-3--2021-3-60-024/assets/161591790/a4c30ceb-a28f-4edf-9fca-e8748ea97909)
+
+UCS
 
 ![UCS](https://github.com/Rafsun-Islam/CSE-366-3--2021-3-60-024/assets/161591790/2d930aee-1057-4941-b7e2-c66aeab62c03)
 
